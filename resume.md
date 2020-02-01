@@ -5,9 +5,7 @@ ALEX ZLOTNIK
     858 603 9317
 
 [GitLab](https://gitlab.com/zlotnika 'my GitLab profile')
-
 [GitHub](https://github.com/zlotnika 'my GitHub profile')
-
 [LinkedIn](http://www.linkedin.com/in/zlotnika 'my LinkedIn profile')
 
 
@@ -17,42 +15,34 @@ SUMMARY
 I am a full-stack web engineer with leadership skills and a strong mathematical background. I enjoy solving tough problems related to data analysis, architecture, and product development.
 
 
+---
+
 EXPERIENCE
 ----------
 
-### Principal Software Engineer
-
-[BRD](https://brd.com 'banking reinvented and distributed')
+### [BRD](https://brd.com 'banking reinvented and distributed'), Principal Software Engineer
 
 > Bend, Oregon, 2017-present
 
-I lead the backend team. The microservices we built supported the cryptocurrency phone apps as well as various other business needs.
+I lead the backend team. The microservices we build support the cryptocurrency phone apps as well as various other business needs.
 
-- Worked in golang, postgresql, GCP
-- Brought new members up to speed with architecture and workflow
-- Mentored and assured quality of code going out
-- Planned numerous projects for myself and others to implement
+- Work in golang, postgresql, GCP
+- Bring new members up to speed with architecture and workflow
+- Mentor and assure quality of code going out
+- Plan numerous projects for myself and others to implement
 
 
-- - -
-
-### Software Engineer
-
-[RightSignature](http://rightsignature.com/ 'online document signing')
+### [Citrix](http://rightsignature.com/ 'online document signing'), Software Engineer
 
 > Santa Barbara, California, 2015-2017
 
-I worked with a small team of engineers building RightSignature. We all worked full-stack, pairing on and reviewing each others' work. I coordinated with other departments in order to realize projects' success.
+I worked with a small team of engineers building RightSignature. We all worked full-stack, pairing on and reviewing each others' work. I coordinated with other departments in order to realize project success.
 
 - Worked in rails, emberjs, postgresql, AWS
 - Managed the release of the RightSignature standalone product
 
 
-- - -
-
-### Software Architect
-
-[Subvertical](https://verticalchange.com/ 'simple data systems for the social sector')
+### [Subvertical](https://verticalchange.com/ 'simple data systems for the social sector'), Software Architect
 
 > Santa Barbara, California, 2014-2015
 
@@ -63,17 +53,13 @@ I owned the flagship product, VerticalChange. I met with clients and planned lon
 - Managed all new feature releases
 
 
-- - -
-
-### Software Engineer
-
-[Opus Logica](http://www.opuslogica.com/ 'a venture technology company')
+### [Opus Logica](http://www.opuslogica.com/ 'a venture technology company'), Software Engineer
 
 > Santa Barbara, California, 2011-2014
 
 I built several prototype applications as well as maintained existing early-stage startup applications.
 
-- Developing an asynchronous analysis engine for Ecorithm, a building efficiency company (node, rabbitmq, mysql, redis)
+- Developed an asynchronous analysis engine for Ecorithm, a building efficiency company (node, rabbitmq, mysql, redis)
 
     [Ecorithm](http://ecorithm.com/)
 
@@ -94,50 +80,38 @@ I built several prototype applications as well as maintained existing early-stag
     [Linda C. Black Astrology](http://lcblack.com/)
 
 
-- - -
-
-### Software Consultant
-
-[Airswimmers](http://airswimmers.com/ 'you know... for kids')
+### [Airswimmers](http://airswimmers.com/ 'you know... for kids'), Software Consultant
 
 > 2011-2012
 
-I wrote a inflation simulator for a complex balloon toy.
+I wrote an inflation simulator for a complex balloon toy.
 
 - Wrote a physics engine that simulates forces on all points on an oddly shaped balloon (processing)
 - Calculated fluid dynamic statistics to insure correct inflation of balloons
 
 
-- - -
-
-### Director and Acrobat
-
-[The Vespertine Circus](http://vespertinecircus.com/ 'a fantastic show')
+### [The Vespertine Circus](http://vespertinecircus.com/ 'a fantastic show'), Director and Acrobat
 
 > Oakland, California, 2009-2011
 
-I directed stage performances, collaborated on acrobatic choreography, and managed equiptment construction.
+I directed stage performances, collaborated on acrobatic choreography, and managed equipment construction.
 
 
-- - -
-
-### Research Technician
-
-[Novasite](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=3206411 'no longer a company')
+### [Novasite](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=3206411 'no longer a company'), Research Technician
 
 > San Diego, California, 2005
 
 I ran experiments for optimizing chemotherapy.
 
 
-### Research Assistant
-
-[The Scripps Research Institute](https://www.scripps.edu 'in the lab of Wendy Havran')
+### [The Scripps Research Institute](https://www.scripps.edu 'in the lab of Wendy Havran'), Research Assistant
 
 > San Diego, California, 2004
 
 I created a soluble γδ T cell receptor. This can be used to discover mechanisms that play a role in wound healing.
 
+
+---
 
 EDUCATION
 ---------
@@ -151,8 +125,10 @@ EDUCATION
     University of California Santa Barbara
 
 
+---
+
 SKILLS
------------------
+------
 
 - English, Spanish (spoken)
 - JavaScript, Ruby, Golang, Python, Java, SQL
