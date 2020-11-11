@@ -22,19 +22,20 @@ EXPERIENCE
 
 ### [BRD](https://brd.com 'banking reinvented and distributed'), Principal Software Engineer
 
-> Bend, Oregon, 2017-present
+> remote; 2017-present
 
-I lead the backend team. The microservices we build support the cryptocurrency phone apps as well as various other business needs.
+I'm the technical lead for the web team. We manage websites, libraries, and microservices that support the cryptocurrency phone apps as well as various other business needs.
 
-- Work in golang, postgresql, GCP
+- Work in js, golang, postgresql, GCP
 - Bring new members up to speed with architecture and workflow
 - Mentor and assure quality of code going out
-- Plan numerous projects for myself and others to implement
+- Plan projects for myself and others to implement
+- Maintain infrastructure in order to keep things moving
 
 
 ### [Citrix](http://rightsignature.com/ 'online document signing'), Software Engineer
 
-> Santa Barbara, California, 2015-2017
+> Santa Barbara, California; 2015-2017
 
 I worked with a small team of engineers building RightSignature. We all worked full-stack, pairing on and reviewing each others' work. I coordinated with other departments in order to realize project success.
 
@@ -44,7 +45,7 @@ I worked with a small team of engineers building RightSignature. We all worked f
 
 ### [Subvertical](https://verticalchange.com/ 'simple data systems for the social sector'), Software Architect
 
-> Santa Barbara, California, 2014-2015
+> Santa Barbara, California; 2014-2015
 
 I owned the flagship product, VerticalChange. I met with clients and planned long-term goals for the company.
 
@@ -55,7 +56,7 @@ I owned the flagship product, VerticalChange. I met with clients and planned lon
 
 ### [Opus Logica](http://www.opuslogica.com/ 'a venture technology company'), Software Engineer
 
-> Santa Barbara, California, 2011-2014
+> Santa Barbara, California; 2011-2014
 
 I built several prototype applications as well as maintained existing early-stage startup applications.
 
@@ -82,7 +83,7 @@ I built several prototype applications as well as maintained existing early-stag
 
 ### [Airswimmers](http://airswimmers.com/ 'you know... for kids'), Software Consultant
 
-> 2011-2012
+> remote; 2011-2012
 
 I wrote an inflation simulator for a complex balloon toy.
 
@@ -92,21 +93,21 @@ I wrote an inflation simulator for a complex balloon toy.
 
 ### [The Vespertine Circus](http://vespertinecircus.com/ 'a fantastic show'), Director and Acrobat
 
-> Oakland, California, 2009-2011
+> Oakland, California; 2009-2011
 
 I directed stage performances, collaborated on acrobatic choreography, and managed equipment construction.
 
 
 ### [Novasite](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=3206411 'no longer a company'), Research Technician
 
-> San Diego, California, 2005
+> San Diego, California; 2005
 
 I ran experiments for optimizing chemotherapy.
 
 
 ### [The Scripps Research Institute](https://www.scripps.edu 'in the lab of Wendy Havran'), Research Assistant
 
-> San Diego, California, 2004
+> San Diego, California; 2004
 
 I created a soluble γδ T cell receptor. This can be used to discover mechanisms that play a role in wound healing.
 
