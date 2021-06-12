@@ -20,17 +20,29 @@ I am a full-stack web engineer with leadership skills and a strong mathematical 
 EXPERIENCE
 ----------
 
+### [Pando](https://pandohr.com 'Career frameworks to structure, measure, and accelerate employee growth'), Founding Engineer
+
+> remote; 2021-present
+
+I'm on a fresh, tiny team. We're building a JS app to revolutionize career management.
+
+- Working in js, postgresql, html, css
+- Constantly making tradeoffs between speed and quality
+- Pushing for efficient and respectful workflows
+- Building a framework from scratch
+- Managing infrastructure and other tooling
+
 ### [BRD](https://brd.com 'banking reinvented and distributed'), Principal Software Engineer
 
-> remote; 2017-present
+> remote; 2017-2021
 
-I'm the technical lead for the web team. We manage websites, libraries, and microservices that support the cryptocurrency phone apps as well as various other business needs.
+I was the technical lead for the web team. We managed websites, libraries, and microservices that support the cryptocurrency phone apps as well as various other business needs.
 
-- Work in js, golang, postgresql, GCP
-- Bring new members up to speed with architecture and workflow
-- Mentor and assure quality of code going out
-- Plan projects for myself and others to implement
-- Maintain infrastructure in order to keep things moving
+- Worked in js, golang, postgresql, GCP
+- Brought new members up to speed with architecture and workflow
+- Mentored and assured quality of code going out
+- Planned projects for myself and others to implement
+- Maintained infrastructure in order to keep things moving
 
 
 ### [Citrix](http://rightsignature.com/ 'online document signing'), Software Engineer
